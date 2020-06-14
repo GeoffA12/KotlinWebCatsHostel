@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-14T08:05:35" hostname="LAPTOP-GNRP9GGG" time="1.413">
+  <properties/>
+  <testcase name="emptyPath" classname="ApplicationTest" time="1.356"/>
+  <testcase name="validValue" classname="ApplicationTest" time="0.057"/>
+  <system-out><![CDATA[03:05:35.995 [Test worker] INFO ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active
+03:05:37.115 [Test worker] INFO ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
